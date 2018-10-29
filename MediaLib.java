@@ -16,7 +16,7 @@ public class MediaLib
     { System.out.println("Welcome to your Media Library");
       
        //Constructors
-       Book book1 = new Book("Where the Red Fern Grows",.88,true,10);
+       Book book1 = new Book("Where the Red Fern Grows",.87,true,10);
        Book book2 = new Book("My Side of the Mountain",.78,false,8);
        Book book3 = new Book("The Hunger Games",.79,false,8);
        Book book4 = new Book("Percy Jackson",.76,false,7);
